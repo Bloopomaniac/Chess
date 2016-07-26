@@ -10,6 +10,7 @@ Basically, we are planning to make 1P vs 1CPU chess game.
 CPU will be using the very famous *Minimax algorithm* to calculate the possible moves from a particular position and *alpha-beta pruning* to eliminate traversing the trees whose alpha-beta values are not favourable till 2 levels.
 
 Additionally, we plan to 
+
 1. show moves log
 
 2. undo moves
