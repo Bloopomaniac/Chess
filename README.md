@@ -21,7 +21,7 @@ Additionally, we plan to
 
 Chess graphics are used from *chess.com*
 
-For example: For black white bishop, the link is
+For example: For white bishop, the link is
 http://images.chesscomfiles.com/chess-themes/pieces/classic/53/wb.png
 
 
